@@ -23,4 +23,4 @@ This is an explanation of the folders in the database:
 DOWNLOAD
 =============
 
-To download the dataset, go to the [releases page](). It would be appreciated if you could [fill this form](https://docs.google.com/forms/d/e/1FAIpQLSdNU7sSRR54C2AKJUnitRaNilYbLbX_EZG9TCFXpABq0XOeuQ/viewform) if you are using this dataset for academic purposes.
+To download the dataset, go to the [releases page](https://github.com/motatoes/messidor-groundtruth/releases). It would be appreciated if you could [fill this form](https://docs.google.com/forms/d/e/1FAIpQLSdNU7sSRR54C2AKJUnitRaNilYbLbX_EZG9TCFXpABq0XOeuQ/viewform) if you are using this dataset for academic purposes.
