@@ -1,2 +1,2 @@
-category,shape,X,Y,Centre
-microaneurysm,circle,604.2664,401.7852,5.9883
+X,Y,radius,obvious,regular,subtle,close_to_vessel
+604.2664,401.7852,5.9883,0,1,0,0

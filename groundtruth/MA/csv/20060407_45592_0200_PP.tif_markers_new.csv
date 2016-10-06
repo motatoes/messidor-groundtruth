@@ -1,7 +1,7 @@
-category,shape,X,Y,Centre
-microaneurysm,circle,677.9603,343.5887,6.1599
-microaneurysm,circle,678.159,399.2262,8.9417
-microaneurysm,circle,789.5076,538.4542,11.0881
-microaneurysm,circle,698.9985,643.2095,11.3186
-microaneurysm,circle,843.4889,818.9458,10.9285
-microaneurysm,circle,564.1679,859.7392,7.1449
+X,Y,radius,obvious,regular,subtle,close_to_vessel
+677.9603,343.5887,6.1599,0,1,0,0
+678.159,399.2262,8.9417,0,1,0,0
+789.5076,538.4542,11.0881,0,1,0,0
+698.9985,643.2095,11.3186,0,1,0,0
+843.4889,818.9458,10.9285,0,1,0,1
+564.1679,859.7392,7.1449,1,0,0,0
